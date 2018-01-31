@@ -1,5 +1,5 @@
-Intuition beind computing "trend" and detecting "anomaly"
----------------------------------------------------------
+Intuition behind computing "trend" and detecting "anomaly"
+----------------------------------------------------------
 We compute an upper and lower threshold at every point of data, any data point which
 does not lie within these values is an anomlay.
 
